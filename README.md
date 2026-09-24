@@ -105,17 +105,17 @@ Este proyecto se encuentra actualmente en etapa de **análisis, levantamiento de
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Actividad en GitHub
 
 <div align="center">
 
-![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulbellido0990\&show_icons=true\&hide_border=true\&theme=github_dark)
+![GitHub followers](https://img.shields.io/github/followers/paulbellido0990?style=for-the-badge&logo=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulbellido0990\&layout=compact\&hide_border=true\&theme=github_dark)
+![GitHub User's stars](https://img.shields.io/github/stars/paulbellido0990?style=for-the-badge&logo=github)
+
+![Profile Views](https://komarev.com/ghpvc/?username=paulbellido0990&style=for-the-badge)
 
 </div>
-
----
 
 ## 🎯 Actualmente
 
