@@ -1,130 +1,165 @@
 <div align="center">
 
-# 👋 Hola, soy Paul Bellido
+# Paul Bellido
 
-### 🎓 Estudiante de Ingeniería de Sistemas | 💻 Software Development
+### I build software to turn ideas and real-world problems into practical digital solutions.
 
-Me interesa el desarrollo de software, aplicaciones web, bases de datos, backend y DevOps.
-Actualmente continúo fortaleciendo mis conocimientos mediante proyectos académicos y personales.
+**Systems Engineering Student · Software Development · Backend · Databases**
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mí
+## 👋 About Me
 
-* 🎓 Estudiante de **Ingeniería de Sistemas**
-* 🏫 Universidad Nacional de San Cristóbal de Huamanga
-* 💻 Interesado en **Desarrollo de Software, Backend y Bases de Datos**
-* ⚙️ Aprendiendo y aplicando prácticas de **DevOps y CI/CD**
-* 🐧 Experiencia trabajando con entornos **Linux**
-* 🚀 En constante desarrollo de nuevos proyectos
+I'm **Paul Bellido**, a Systems Engineering student focused on learning
+how to design and build software that is useful, maintainable and scalable.
+
+My interests go beyond writing code. I enjoy understanding a problem,
+designing its structure, working with databases, developing backend
+services and connecting the different pieces of a software solution.
+
+- ⚡ **What I build:** Web applications, REST APIs, database-driven systems and automation projects.
+- 🧠 **How I think:** Good software should be understandable, maintainable and solve a real problem.
+- 🛠️ **My approach:** Analyze the problem, design the solution, build it, test it and keep improving it.
+- 🎓 **Currently:** Studying Systems Engineering at Universidad Nacional de San Cristóbal de Huamanga.
+- 🚀 **Current goal:** Strengthen my software engineering skills through increasingly complete projects.
+
+> Software is more than code — it is a way to transform a problem into a useful solution.
 
 ---
 
-## 🚀 Proyectos destacados
+## 🧰 My Engineering Toolkit
+
+### Frontend & User Experience
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
+</p>
+
+### Backend & Programming
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,nodejs,express,fastapi,c" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+`SQL Server` · `Relational Database Design` · `Stored Procedures` · `Triggers`
+
+### Infrastructure & Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+</p>
+
+`GitHub Actions` · `Jenkins` · `SonarQube` · `Maven`
+
+---
+
+## 🚀 Selected Projects
 
 ### 👟 SneakerHub
 
-Plataforma web orientada a la gestión y comercialización de zapatillas, desarrollada mediante una arquitectura frontend/backend.
+**Full Stack E-commerce Platform**
 
-**Características principales:**
+SneakerHub is a web application designed for the management and
+commercialization of sneakers, integrating a customer-facing store
+with administrative tools for inventory, orders and business monitoring.
 
-* Desarrollo frontend y backend
-* Gestión de productos
-* Organización modular del proyecto
-* Integración entre cliente y servidor
-* Despliegue de la aplicación
+- 🛒 **Key features:** Product catalog, shopping cart, orders, authentication and role management.
+- 📦 **Management:** Products, inventory, stock alerts and order tracking.
+- 📊 **Analytics:** Administrative dashboard and business indicators.
+- ⚡ **Stack:** React · Vite · FastAPI · Python · MySQL · REST API.
 
-🔗 [Ver repositorio](https://github.com/paulbellido0990/sneakerhub_repositorio)
-
----
-
-### 🏥 Sistema de Citas y Referencias Hospitalarias
-
-> 🚧 **Actualmente en desarrollo**
-
-Sistema web orientado a mejorar la gestión de citas médicas y referencias de pacientes dentro de un entorno hospitalario.
-
-El proyecto busca integrar funcionalidades como:
-
-* Gestión de pacientes
-* Programación de citas médicas
-* Gestión de especialidades
-* Disponibilidad de médicos
-* Generación de referencias
-* Seguimiento de referencias
-* Gestión de usuarios y roles
-
-Este proyecto se encuentra actualmente en etapa de **análisis, levantamiento de requisitos y diseño del sistema**.
+[View repository](https://github.com/paulbellido0990/sneakerhub)
 
 ---
 
-## 🛠️ Tecnologías
+### 🧪 Payment Processing Tests
 
-### Lenguajes
+**Automated Testing & Continuous Integration**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge\&logo=javascript)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge\&logo=python)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge\&logo=openjdk)
-![C](https://img.shields.io/badge/C-000?style=for-the-badge\&logo=c)
+A Python project focused on validating business rules in a payment
+processing module through automated unit testing.
 
-### Backend y Web
+- 🧪 **Testing:** Unit tests with Pytest.
+- 🎭 **Mocking:** External dependency simulation using MagicMock.
+- 🔄 **CI:** Automatic test execution with GitHub Actions.
+- ⚡ **Stack:** Python · Pytest · GitHub Actions.
 
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge\&logo=express)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge\&logo=css3)
-
-### Bases de Datos
-
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge\&logo=mysql)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-000?style=for-the-badge\&logo=microsoftsqlserver)
-
-### DevOps y Herramientas
-
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge\&logo=docker)
-![Jenkins](https://img.shields.io/badge/Jenkins-000?style=for-the-badge\&logo=jenkins)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge\&logo=linux)
+[View repository](https://github.com/paulbellido0990/payment-processing-tests)
 
 ---
 
-## 📚 Áreas de interés
+### 🖥️ Operating Systems — xv6
 
-```text
-💻 Desarrollo de Software
-🌐 Desarrollo Web
-⚙️ Backend Development
-🗄️ Bases de Datos
-🔄 DevOps y CI/CD
-🏗️ Arquitectura de Software
-🐧 Linux
-```
+**Operating Systems & Low-Level Development**
+
+Academic implementations and experiments using xv6 to understand
+operating-system concepts at kernel level.
+
+- ⚙️ System calls
+- 🚦 Process management
+- 🔒 Semaphores and synchronization
+- 🧠 Memory management
+- 📄 Lazy allocation and page faults
+- ⚡ **Stack:** C · xv6 · RISC-V · Linux
 
 ---
 
-## 📊 Actividad en GitHub
+### 🗄️ Database Engineering
+
+**SQL Server & Relational Database Projects**
+
+Projects focused on database design, querying and server-side
+programming.
+
+- Relational database modeling
+- Stored procedures
+- Functions
+- Triggers
+- Views
+- Indexes
+- Transactions and data integrity
+
+**Technologies:** SQL Server · T-SQL · MySQL
+
+---
+
+## 🌱 Currently Improving
+
+I'm currently strengthening my knowledge in:
+
+`Software Architecture` · `Backend Development` · `Testing` ·
+`CI/CD` · `Database Design` · `DevOps`
+
+My goal is to progressively transform academic projects into
+well-documented software projects that demonstrate both technical
+implementation and engineering thinking.
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in software development, technology and projects
+where engineering can be used to solve real problems.
+
+<p align="center">
+  <a href="https://github.com/paulbellido0990">
+    <img src="https://img.shields.io/badge/GitHub-paulbellido0990-181717?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/paulbellido0990?style=for-the-badge&logo=github)
-
-![GitHub User's stars](https://img.shields.io/github/stars/paulbellido0990?style=for-the-badge&logo=github)
-
-![Profile Views](https://komarev.com/ghpvc/?username=paulbellido0990&style=for-the-badge)
+### Turning ideas into software, one project at a time.
 
 </div>
-
-## 🎯 Actualmente
-
-Estoy trabajando en el desarrollo de un **Sistema de Citas y Referencias Hospitalarias**, aplicando análisis de requisitos, diseño de software, bases de datos y desarrollo web.
-
-También continúo mejorando y documentando mis proyectos para construir un portafolio técnico cada vez más completo.
-
----
-
 <div align="center">
 
 ### 💡 Construyendo, aprendiendo y mejorando proyecto a proyecto.
