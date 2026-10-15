@@ -1,169 +1,201 @@
 <div align="center">
 
-# Paul Bellido
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:5f6675,35:6f8fe8,70:6ea7ff,100:67d9e8&text=Paul%20Bellido&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=SYSTEMS%20ENGINEERING%20STUDENT%20%7C%20SOFTWARE%20DEVELOPER&descAlignY=58"/>
 
-### I build software to turn ideas and real-world problems into practical digital solutions.
+<br>
 
-**Systems Engineering Student · Software Development · Backend · Databases**
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-COMING_SOON-4d4d4d?style=for-the-badge)](https://paulbellido0990.github.io)
+[![Visit Website](https://img.shields.io/badge/VISIT_WEBSITE-SNEAKERHUB_DEMO-2563eb?style=for-the-badge)](https://sneakerhub-repositorio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-PROFILE-4d4d4d?style=for-the-badge)](https://www.linkedin.com/)
+[![Let's Connect](https://img.shields.io/badge/LET'S_CONNECT-WITH_ME-2563eb?style=for-the-badge)](mailto:TU_CORREO_AQUI)
+[![GitHub](https://img.shields.io/badge/FOLLOW_ME-ON_GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paulbellido0990)
+
+<br><br>
+
+### Transformo ideas y problemas reales en soluciones de software prácticas.
+
+Desarrollo proyectos enfocados en **software**, **backend**, **bases de datos**, **testing** y **mejora continua**.
 
 </div>
 
 ---
 
-## 👋 About Me
+# 👨‍💻 Sobre mí
 
-I'm **Paul Bellido**, a Systems Engineering student focused on learning
-how to design and build software that is useful, maintainable and scalable.
+Soy **Paul Bellido**, estudiante de **Ingeniería de Sistemas** en la  
+**Universidad Nacional de San Cristóbal de Huamanga**.
 
-My interests go beyond writing code. I enjoy understanding a problem,
-designing its structure, working with databases, developing backend
-services and connecting the different pieces of a software solution.
+Me interesa construir soluciones tecnológicas útiles, bien estructuradas y con una base sólida de ingeniería.  
+Disfruto trabajar en proyectos donde pueda aplicar:
 
-- ⚡ **What I build:** Web applications, REST APIs, database-driven systems and automation projects.
-- 🧠 **How I think:** Good software should be understandable, maintainable and solve a real problem.
-- 🛠️ **My approach:** Analyze the problem, design the solution, build it, test it and keep improving it.
-- 🎓 **Currently:** Studying Systems Engineering at Universidad Nacional de San Cristóbal de Huamanga.
-- 🚀 **Current goal:** Strengthen my software engineering skills through increasingly complete projects.
+- desarrollo de software
+- backend
+- bases de datos
+- testing
+- arquitectura de software
+- DevOps
+- sistemas operativos
 
-> Software is more than code — it is a way to transform a problem into a useful solution.
+### 🚀 En qué me estoy enfocando
+- Construcción de aplicaciones web
+- Desarrollo backend y APIs REST
+- Diseño y gestión de bases de datos
+- Pruebas automatizadas
+- Integración y despliegue continuo
+- Documentación técnica de proyectos
 
 ---
 
-## 🧰 My Engineering Toolkit
+# 🧰 Mi stack tecnológico
 
-### Frontend & User Experience
-
+### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
 </p>
 
-### Backend & Programming
-
+### ⚙️ Backend & Programming
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,nodejs,express,fastapi,c" />
 </p>
 
-### Databases
-
+### 🗄️ Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 `SQL Server` · `Relational Database Design` · `Stored Procedures` · `Triggers`
 
-### Infrastructure & Developer Tools
-
+### 🛠️ Tools & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,jenkins" />
 </p>
 
-`GitHub Actions` · `Jenkins` · `SonarQube` · `Maven`
+`GitHub Actions` · `SonarQube` · `Maven`
 
 ---
 
-## 🚀 Selected Projects
+# 🚀 Proyectos destacados
 
-### 👟 SneakerHub
-
+## 👟 SneakerHub
 **Full Stack E-commerce Platform**
 
-SneakerHub is a web application designed for the management and
-commercialization of sneakers, integrating a customer-facing store
-with administrative tools for inventory, orders and business monitoring.
+SneakerHub es una plataforma web para la gestión y comercialización de zapatillas, integrando catálogo de productos, carrito de compras, autenticación, administración de inventario, pedidos y dashboard de negocio.
 
-- 🛒 **Key features:** Product catalog, shopping cart, orders, authentication and role management.
-- 📦 **Management:** Products, inventory, stock alerts and order tracking.
-- 📊 **Analytics:** Administrative dashboard and business indicators.
-- ⚡ **Stack:** React · Vite · FastAPI · Python · MySQL · REST API.
+### Características principales
+- Catálogo de productos
+- Carrito de compras
+- Gestión de pedidos
+- Control de stock
+- Alertas de bajo inventario
+- Panel administrativo
+- Dashboard BI
 
-[View repository](https://github.com/paulbellido0990/sneakerhub)
+### Stack
+`React` · `Vite` · `FastAPI` · `Python` · `MySQL` · `Tailwind CSS`
+
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paulbellido0990/sneakerhub)
+[![Demo](https://img.shields.io/badge/Live_Demo-2563eb?style=for-the-badge)](https://sneakerhub-repositorio.vercel.app/)
 
 ---
 
-### 🧪 Payment Processing Tests
-
+## 🧪 Payment Processing Tests
 **Automated Testing & Continuous Integration**
 
-A Python project focused on validating business rules in a payment
-processing module through automated unit testing.
+Proyecto orientado a validar reglas de negocio en un módulo de procesamiento de pagos mediante pruebas automatizadas con Python.
 
-- 🧪 **Testing:** Unit tests with Pytest.
-- 🎭 **Mocking:** External dependency simulation using MagicMock.
-- 🔄 **CI:** Automatic test execution with GitHub Actions.
-- ⚡ **Stack:** Python · Pytest · GitHub Actions.
+### Incluye
+- pruebas unitarias con `pytest`
+- uso de `MagicMock`
+- simulación de dependencias externas
+- flujo de integración continua con GitHub Actions
 
-[View repository](https://github.com/paulbellido0990/payment-processing-tests)
+### Stack
+`Python` · `Pytest` · `GitHub Actions`
 
----
-
-### 🖥️ Operating Systems — xv6
-
-**Operating Systems & Low-Level Development**
-
-Academic implementations and experiments using xv6 to understand
-operating-system concepts at kernel level.
-
-- ⚙️ System calls
-- 🚦 Process management
-- 🔒 Semaphores and synchronization
-- 🧠 Memory management
-- 📄 Lazy allocation and page faults
-- ⚡ **Stack:** C · xv6 · RISC-V · Linux
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paulbellido0990/payment-processing-tests)
 
 ---
 
-### 🗄️ Database Engineering
+## 🖥️ Operating Systems — xv6
+**Kernel-level Learning & OS Concepts**
 
-**SQL Server & Relational Database Projects**
+Implementaciones académicas y prácticas sobre **xv6 / RISC-V**, incluyendo llamadas al sistema, semáforos, planificación, manejo de memoria y lazy allocation.
 
-Projects focused on database design, querying and server-side
-programming.
+### Temas trabajados
+- System calls
+- Sincronización con semáforos
+- Gestión de procesos
+- Manejo de memoria
+- Page faults
+- Lazy allocation
 
-- Relational database modeling
-- Stored procedures
-- Functions
-- Triggers
-- Views
-- Indexes
-- Transactions and data integrity
-
-**Technologies:** SQL Server · T-SQL · MySQL
-
----
-
-## 🌱 Currently Improving
-
-I'm currently strengthening my knowledge in:
-
-`Software Architecture` · `Backend Development` · `Testing` ·
-`CI/CD` · `Database Design` · `DevOps`
-
-My goal is to progressively transform academic projects into
-well-documented software projects that demonstrate both technical
-implementation and engineering thinking.
+### Stack
+`C` · `xv6` · `RISC-V` · `Linux`
 
 ---
 
-## 🤝 Let's Connect
+## 🗄️ Database Engineering
+**SQL Server & Relational Systems**
 
-I'm interested in software development, technology and projects
-where engineering can be used to solve real problems.
+Proyectos centrados en modelado relacional, consultas SQL, funciones, procedimientos almacenados, triggers, vistas e integridad de datos.
 
-<p align="center">
-  <a href="https://github.com/paulbellido0990">
-    <img src="https://img.shields.io/badge/GitHub-paulbellido0990-181717?style=for-the-badge&logo=github">
-  </a>
-</p>
+### Tecnologías
+`SQL Server` · `T-SQL` · `MySQL`
+
+---
+
+# 📊 Mi GitHub de un vistazo
 
 <div align="center">
 
-### Turning ideas into software, one project at a time.
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulbellido0990&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulbellido0990&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=paulbellido0990&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+> Si alguna tarjeta de estadísticas no carga, puedes quitar esta sección temporalmente.  
+> A veces esos servicios externos fallan por límites o disponibilidad.
+
+---
+
+# 📚 Actualmente fortaleciendo
+
+Estoy mejorando continuamente mis conocimientos en:
+
+- **Software Engineering**
+- **Backend Development**
+- **Database Design**
+- **Testing**
+- **CI/CD**
+- **DevOps**
+- **Software Architecture**
+
+Mi objetivo es convertir progresivamente mis proyectos académicos en un **portafolio técnico sólido y profesional**.
+
+---
+
+# 🤝 Construyamos algo significativo
+
+Siempre me interesa conectar con personas que valoran la tecnología, el aprendizaje continuo y la construcción de soluciones útiles.
+
+Ya sea para compartir ideas, mostrar proyectos o crear algo nuevo, siempre estoy abierto a seguir creciendo profesionalmente.
+
 <div align="center">
 
-### 💡 Construyendo, aprendiendo y mejorando proyecto a proyecto.
+[![Explore My Work](https://img.shields.io/badge/▲_EXPLORE_MY_WORK-GITHUB_PROFILE-4d4d4d?style=for-the-badge)](https://github.com/paulbellido0990)
+[![Visit Portfolio](https://img.shields.io/badge/VISIT_PORTFOLIO-COMING_SOON-2563eb?style=for-the-badge)](https://paulbellido0990.github.io)
+[![Connect With Me](https://img.shields.io/badge/CONNECT_WITH_ME-EMAIL-4d4d4d?style=for-the-badge)](mailto:TU_CORREO_AQUI)
+[![On LinkedIn](https://img.shields.io/badge/ON_LINKEDIN-PROFILE-2563eb?style=for-the-badge)](https://www.linkedin.com/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=paulbellido0990\&style=flat-square)
+<br><br>
+
+### Transformando ideas en software. Transformando software en impacto.
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:5f6675,35:6f8fe8,70:6ea7ff,100:67d9e8"/>
+
