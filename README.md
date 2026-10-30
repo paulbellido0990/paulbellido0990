@@ -1,225 +1,223 @@
 <div align="center">
 
-<img width="100%" alt="Paul Bellido — Ingeniería de Sistemas y Desarrollo de Software" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:111827,35:334155,70:0F766E,100:2DD4BF&text=Paul%20Bellido&fontSize=55&fontColor=F8FAFC&fontAlignY=38&desc=INGENIER%C3%8DA%20DE%20SISTEMAS%20%C2%B7%20SOFTWARE%20DEVELOPMENT&descSize=16&descAlignY=61&animation=fadeIn" />
+<img src="./assets/portada.svg" width="100%" alt="Paul Bellido — Ingeniería de Sistemas y desarrollo de software" />
 
-<br/>
+<br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2900&pause=1000&color=14B8A6&center=true&vCenter=true&width=820&lines=Del+an%C3%A1lisis+al+software+funcional.;Full+Stack+%7C+Arquitectura+%7C+Testing;APIs+REST+%7C+Bases+de+datos+%7C+DevOps;Aprendiendo%2C+construyendo+y+mejorando." alt="Áreas de desarrollo" />
+[![GitHub](https://img.shields.io/badge/GITHUB-MIS_PROYECTOS-DAD6F6?style=for-the-badge&logo=github&logoColor=334155)](https://github.com/paulbellido0990?tab=repositories)
+[![SneakerHub](https://img.shields.io/badge/SNEAKERHUB-DEMO-C2E9DD?style=for-the-badge&logo=vercel&logoColor=334155)](https://sneakerhub-repositorio.vercel.app/)
+[![SneakerStore](https://img.shields.io/badge/SNEAKERSTORE-CATALOGO-F7C9D7?style=for-the-badge&logo=react&logoColor=334155)](https://github.com/paulbellido0990/SneakerStore)
+[![Universidad](https://img.shields.io/badge/UNSCH-INGENIERIA_DE_SISTEMAS-B7DCEF?style=for-the-badge&logo=academia&logoColor=334155)](https://www.unsch.edu.pe/)
 
-<br/><br/>
+**¡Hola! Soy Paul Bellido.** Estudiante de Ingeniería de Sistemas en la Universidad Nacional de San Cristóbal de Huamanga (Perú).
 
-[![GitHub](https://img.shields.io/badge/EXPLORAR-REPOSITORIOS-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paulbellido0990?tab=repositories)
-[![SneakerHub](https://img.shields.io/badge/SNEAKERHUB-DEMO-0F766E?style=for-the-badge&logo=vercel&logoColor=white)](https://sneakerhub-repositorio.vercel.app/)
-[![SneakerStore](https://img.shields.io/badge/SNEAKERSTORE-C%C3%93DIGO-EF6C59?style=for-the-badge&logo=react&logoColor=white)](https://github.com/paulbellido0990/SneakerStore)
+*Desarrollo soluciones a partir del análisis, la arquitectura, la implementación, las pruebas y la mejora continua.*
 
-<br/><br/>
+`Full Stack` · `APIs REST` · `Arquitectura de software` · `Bases de datos` · `Testing` · `Automatización`
 
-**Diseño soluciones donde el código, los datos y la ingeniería trabajan juntos.**
-
-`Desarrollo Full Stack` · `Arquitectura de software` · `Bases de datos` · `Pruebas` · `Integración y despliegue`
+[Proyectos destacados](#-proyectos-destacados) • [Lenguajes](#-lenguajes-y-estadísticas) • [Todos los repositorios](#-índice-de-repositorios) • [Contacto](#-contacto)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mí
+## 🌷 Sobre mí
 
-Soy **Paul Bellido**, estudiante de **Ingeniería de Sistemas** en la **Universidad Nacional de San Cristóbal de Huamanga (UNSCH), Perú**.
+Combino desarrollo web y backend con diseño de arquitectura, bases de datos y pruebas de software. Mis proyectos abarcan e-commerce, sistemas de gestión, laboratorios de patrones y arquitectura hexagonal, aplicaciones de escritorio y análisis mediante notebooks.
 
-Me interesa recorrer todo el ciclo de vida de un producto de software: **entender el problema, modelar una solución, desarrollar, probar, desplegar y mejorar**. Este perfil reúne tanto proyectos funcionales como laboratorios académicos; cada uno documenta una habilidad técnica distinta.
+> **Mi enfoque:** comprender el problema → modelar la solución → construirla → probarla → mejorarla.
 
-> **Mi enfoque:** comprender las decisiones de diseño, no solo conseguir que el código se ejecute.
+## 🧰 Tecnologías usadas en mis proyectos
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=paulbellido0990&label=Visitas%20al%20perfil&color=0f766e&style=flat-square" alt="Visitas al perfil" />
-<img src="https://img.shields.io/github/followers/paulbellido0990?label=Seguidores&style=flat-square&color=14b8a6" alt="Seguidores en GitHub" />
-<img src="https://img.shields.io/github/stars/paulbellido0990?affiliations=OWNER&style=flat-square&color=ef6c59&label=Estrellas" alt="Estrellas de repositorios" />
+| Área | Tecnologías |
+|:--|:--|
+| **Frontend** | ![React](https://img.shields.io/badge/React-DDE9FA?logo=react&logoColor=334155) ![TypeScript](https://img.shields.io/badge/TypeScript-DDE9FA?logo=typescript&logoColor=334155) ![JavaScript](https://img.shields.io/badge/JavaScript-F3DFB2?logo=javascript&logoColor=334155) ![Vite](https://img.shields.io/badge/Vite-DAD0F3?logo=vite&logoColor=334155) ![Tailwind](https://img.shields.io/badge/Tailwind-C2E9DD?logo=tailwindcss&logoColor=334155) |
+| **Backend** | ![Python](https://img.shields.io/badge/Python-B9E6D3?logo=python&logoColor=334155) ![FastAPI](https://img.shields.io/badge/FastAPI-C2E9DD?logo=fastapi&logoColor=334155) ![Node](https://img.shields.io/badge/Node.js-B9E6D3?logo=nodedotjs&logoColor=334155) ![Express](https://img.shields.io/badge/Express-DAD6F6?logo=express&logoColor=334155) ![Java](https://img.shields.io/badge/Java-F7C9D7?logo=openjdk&logoColor=334155) |
+| **Datos** | ![MySQL](https://img.shields.io/badge/MySQL-B7DCEF?logo=mysql&logoColor=334155) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DDE9FA?logo=postgresql&logoColor=334155) ![SQLite](https://img.shields.io/badge/SQLite-C2E9DD?logo=sqlite&logoColor=334155) |
+| **Calidad y herramientas** | ![Pytest](https://img.shields.io/badge/Pytest-F3DFB2?logo=pytest&logoColor=334155) ![Git](https://img.shields.io/badge/Git-F7C9D7?logo=git&logoColor=334155) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-DAD0F3?logo=githubactions&logoColor=334155) ![Maven](https://img.shields.io/badge/Maven-DDE9FA?logo=apachemaven&logoColor=334155) |
 
 </div>
 
 ---
 
-## 🧰 Tecnologías y herramientas
+## 📊 Lenguajes y estadísticas
 
-<table>
-<tr><td><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind&perline=7" alt="HTML, CSS, JavaScript, TypeScript, React, Vite y Tailwind CSS" /></td></tr>
-<tr><td><b>Backend y lenguajes</b></td><td><img src="https://skillicons.dev/icons?i=python,java,nodejs,express,fastapi,c&perline=6" alt="Python, Java, Node.js, Express, FastAPI y C" /></td></tr>
-<tr><td><b>Datos</b></td><td><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&perline=3" alt="MySQL, PostgreSQL y SQLite" /><br/>SQL Server · T-SQL · modelamiento relacional</td></tr>
-<tr><td><b>Entorno y calidad</b></td><td><img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,githubactions,maven&perline=7" alt="Git, GitHub, Docker, Linux, VS Code, GitHub Actions y Maven" /><br/>Pytest · Vitest · JUnit (en aprendizaje) · CI/CD</td></tr>
-</table>
+### Distribución porcentual de lenguajes principales
 
-<sub>Las herramientas reflejan proyectos documentados y áreas de práctica; no implican dominio experto de todas ellas.</sub>
+<img src="./assets/lenguajes.svg" alt="Distribución porcentual por lenguaje principal de 13 repositorios" width="100%" />
+
+| Lenguaje principal de repositorio | Repositorios | Participación |
+|:--|--:|--:|
+| Python | 4 | **30.8 %** |
+| Java | 4 | **30.8 %** |
+| Jupyter Notebook | 3 | **23.1 %** |
+| JavaScript | 1 | **7.7 %** |
+| TypeScript | 1 | **7.7 %** |
+| **Total con lenguaje identificado** | **13** | **100 %** |
+
+> **Metodología, 30/10/2026:** porcentajes calculados sobre los 13 repositorios públicos de los 17 encontrados que tienen lenguaje principal identificado en sus metadatos. Un repositorio puede contener varios lenguajes; **este gráfico no mide bytes, líneas de código ni competencia técnica**. Los cuatro repositorios restantes no tenían un lenguaje principal informado. Jupyter Notebook es la categoría detectada por GitHub para archivos `.ipynb`, que pueden contener Python u otro lenguaje.
+
+### Estadísticas automáticas de GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=paulbellido0990&show_icons=true&hide_border=true&bg_color=F8FAFC&title_color=64748B&text_color=475569&icon_color=8B9FD6" height="170" alt="Estadísticas de GitHub" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulbellido0990&layout=compact&hide_border=true&bg_color=F8FAFC&title_color=64748B&text_color=475569&langs_count=8" height="170" alt="Lenguajes calculados por servicio externo" />
+
+<img src="https://streak-stats.demolab.com?user=paulbellido0990&hide_border=true&background=F8FAFC&ring=A8B9E6&fire=E8A5B6&currStreakLabel=64748B&sideLabels=64748B&dates=94A3B8" alt="Racha de contribuciones" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=paulbellido0990&bg_color=f8fafc&color=64748b&line=9acbc0&point=e7b8c9&area=true&hide_border=true" width="100%" alt="Gráfico dinámico de contribuciones" />
+
+</div>
+
+<sub>Las tarjetas anteriores son generadas por servicios externos y pueden incluir reglas de cómputo distintas de la tabla estática. Si el servidor externo no responde, GitHub puede mostrar una imagen rota. No representan actividad en repositorios privados inaccesibles.</sub>
 
 ---
 
 ## 🚀 Proyectos destacados
 
-### 👟 01 · [SneakerHub — E-commerce Full Stack](https://github.com/paulbellido0990/sneakerhub)
+### 👟 [SneakerHub — Plataforma de e-commerce Full Stack](https://github.com/paulbellido0990/sneakerhub)
 
-**Comercialización y administración de zapatillas.** Aplicación con catálogo, carrito, pedidos y panel administrativo para productos, existencias y reportes. El repositorio documenta integración entre frontend, API REST y base de datos.
+**React · Vite · FastAPI · Python · MySQL · Tailwind CSS**
 
-**Tecnologías:** `React` `Vite` `Tailwind CSS` `Python` `FastAPI` `SQLAlchemy` `MySQL` `JWT`
+Plataforma de comercio de zapatillas con módulos de catálogo, carrito, pedidos, autenticación, control administrativo de productos e inventario y dashboard con indicadores del negocio. Arquitectura de frontend, API REST y base de datos.
 
-**Áreas trabajadas:** catálogo y filtros · carrito · autenticación y roles · gestión de stock · pedidos · dashboard de negocio.
+[![Código](https://img.shields.io/badge/VER_CÓDIGO-DAD6F6?style=flat-square&logo=github&logoColor=334155)](https://github.com/paulbellido0990/sneakerhub) [![Demo](https://img.shields.io/badge/DEMO_PÚBLICA-C2E9DD?style=flat-square&logo=vercel&logoColor=334155)](https://sneakerhub-repositorio.vercel.app/)
 
-[![Repositorio](https://img.shields.io/badge/VER_C%C3%93DIGO-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paulbellido0990/sneakerhub)
-[![Demo](https://img.shields.io/badge/ABRIR_DEMO-0F766E?style=for-the-badge&logo=vercel&logoColor=white)](https://sneakerhub-repositorio.vercel.app/)
+### 🛍️ [SneakerStore PRO — Catálogo interactivo](https://github.com/paulbellido0990/SneakerStore)
 
-### 🛍️ 02 · [SneakerStore PRO — Catálogo dinámico](https://github.com/paulbellido0990/SneakerStore)
+**React · TypeScript · Axios · TanStack Query · React Router**
 
-**Laboratorio IS-882 de Desarrollo Web.** Catálogo académico de zapatillas Nike, Adidas, Jordan y New Balance, con interfaz en español y precios de demostración en **soles peruanos (S/)**.
+Catálogo académico con **24 zapatillas seleccionadas** de Nike, Adidas, Jordan y New Balance, además de consumo REST de DummyJSON. Incluye filtros, búsqueda con debouncing, paginación, favoritos, vista de detalle y precios demostrativos en soles peruanos. No procesa pagos reales.
 
-**Tecnologías:** `React 19` `TypeScript` `Vite` `Axios` `TanStack Query` `React Router`
+[![Repositorio](https://img.shields.io/badge/VER_PROYECTO-F7C9D7?style=flat-square&logo=github&logoColor=334155)](https://github.com/paulbellido0990/SneakerStore)
 
-**Áreas trabajadas:** búsqueda con *debouncing* · filtros combinados · paginación · estado en la URL · caché y *prefetching* · favoritos locales · conexión con DummyJSON.
+### 🧩 [Arquitectura Hexagonal — Gestión Académica](https://github.com/paulbellido0990/Labo4_Arqui_Hexagonal)
 
-> Catálogo **demostrativo**, no tienda con pagos o inventario real. Combina 24 modelos de muestra con datos adicionales disponibles desde la API.
+**Java · Maven · PostgreSQL · JSON**
 
-[![Repositorio](https://img.shields.io/badge/EXPLORAR_PROYECTO-EF6C59?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paulbellido0990/SneakerStore)
+Aplicación de consola que separa casos de uso, puertos y adaptadores. Gestiona entidades académicas con adaptadores alternativos de persistencia JSON y PostgreSQL.
 
-### 🧩 03 · [Sistema académico — Arquitectura Hexagonal](https://github.com/paulbellido0990/Labo4_Arqui_Hexagonal)
+### 🧱 [Patrones y arquitectura — Laboratorio 05](https://github.com/paulbellido0990/Labo5_arqu)
 
-Laboratorio de **Ports & Adapters** en Java: casos de uso desacoplados de la persistencia, con adaptadores para **JSON** y **PostgreSQL**. El objetivo es cambiar el almacenamiento sin reescribir el núcleo de aplicación.
+**Java · Maven · Diseño de software**
 
-**Tecnologías:** `Java` `Maven` `JDBC` `Gson` `PostgreSQL`
+Ejercicios académicos de arquitectura y patrones de diseño organizados en un proyecto Java. Complementa el trabajo sobre modularidad, reutilización y diseño orientado a objetos.
 
-**Conceptos:** puertos de entrada/salida · inversión de dependencias · adaptadores intercambiables · CRUD académico.
+### 🌸 [BLOSSOM — Gestión de ventas de escritorio](https://github.com/paulbellido0990/blossom-escritorio)
 
-[![Ver laboratorio](https://img.shields.io/badge/ARQUITECTURA_HEXAGONAL-7C6FA6?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/paulbellido0990/Labo4_Arqui_Hexagonal)
+**Python · SQLite · Aplicación Windows**
 
-### 🧱 04 · [Patrones de diseño — Java](https://github.com/paulbellido0990/Labo5_arqu)
+Sistema local de ventas, cobros parciales, pedidos, gastos, estadísticas y comprobantes PDF. Incluye respaldos, exportación e instrucciones para compilar un ejecutable para Windows.
 
-Prácticas de arquitectura de software enfocadas en la organización de clases y la aplicación de **patrones de diseño** dentro de un sistema académico. Incluyen ejercicios para contrastar distintas formas de creación y colaboración entre objetos.
+### 📅 [ALIRA — Gestor personal de tareas](https://github.com/paulbellido0990/agente_personal)
 
-**Tecnologías:** `Java` `Maven` · diseño orientado a objetos · UML.
+**React · Express · SQLite · PWA**
 
-[![Ver proyecto](https://img.shields.io/badge/PATRONES_DE_DISE%C3%91O-334155?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/paulbellido0990/Labo5_arqu)
+Plataforma de organización de tareas, recordatorios, calendario y reportes; incluye controles de autenticación y sincronización mediante un backend central. **Proyecto no publicado en un alojamiento público**, según su documentación.
 
-### 🧪 05 · Pruebas automatizadas y procesamiento de pagos
+### 🧪 [Pruebas automatizadas de procesamiento de pagos](https://github.com/paulbellido0990/laboratorio-5-pruebas)
 
-Laboratorios con **Python** orientados a validar reglas de negocio y resultados esperados. Los repositorios incluyen módulos de procesamiento y archivos de pruebas, útiles para practicar aserciones, aislamiento y regresión.
+**Python · Pytest · GitHub Actions**
 
-[![Pruebas Lab 5](https://img.shields.io/badge/LAB_05-PYTHON-0F766E?style=for-the-badge&logo=pytest&logoColor=white)](https://github.com/paulbellido0990/laboratorio-5-pruebas)
-[![Pruebas Semana 6](https://img.shields.io/badge/SEMANA_06-TESTING-111827?style=for-the-badge&logo=pytest&logoColor=white)](https://github.com/paulbellido0990/laboratorio-pruebas-s6)
-
-### 🌸 06 · [BLOSSOM — Sistema de ventas de escritorio](https://github.com/paulbellido0990/blossom-escritorio)
-
-Aplicación local para Windows, desarrollada en **Python con Tkinter y SQLite**, destinada al registro de ventas, cobros, pedidos, gastos y estadísticas. Su documentación incorpora respaldos, exportación de datos y generación de comprobantes PDF.
-
-**Tecnologías:** `Python` `Tkinter` `SQLite` `Pytest` `PyInstaller` `GitHub Actions`
-
-**Enfoque:** funcionamiento local · persistencia · reportes · copias de seguridad · distribución como ejecutable.
-
-[![Ver BLOSSOM](https://img.shields.io/badge/ABRIR_BLOSSOM-D78DA7?style=for-the-badge&logo=python&logoColor=white)](https://github.com/paulbellido0990/blossom-escritorio)
-
-### 📅 07 · [ALIRA — Gestor personal y académico](https://github.com/paulbellido0990/agente_personal)
-
-Sistema web de organización de tareas con dashboard, calendarios, recordatorios, estadísticas y administración de cuentas. El README describe controles de sesión, sincronización mediante servidor y una **PWA**; el proyecto se documenta como **no publicado en producción**.
-
-**Tecnologías:** `React` `Express` `Node.js` `SQLite` `PWA` `Recharts`
-
-**Enfoque:** productividad · autenticación · control de sesiones · gestión de tareas · arquitectura cliente/servidor.
-
-[![Ver ALIRA](https://img.shields.io/badge/ABRIR_ALIRA-7C6FA6?style=for-the-badge&logo=react&logoColor=white)](https://github.com/paulbellido0990/agente_personal)
+Laboratorio de validación de lógica de pagos y ejecución de pruebas automatizadas. Archivos principales: `procesamiento_pagos.py` y `test_procesamiento_pagos.py`.
 
 ---
 
-## 📚 Laboratorios, prácticas y exploraciones
+## 🗂️ Índice de repositorios
 
-| Línea de trabajo | Repositorios públicos | Habilidades practicadas |
-| :-- | :-- | :-- |
-| **Arquitectura de software** | [Laboratorio 03](https://github.com/paulbellido0990/Labo03-Arquitectura-Software) · [Versión limpia](https://github.com/paulbellido0990/Labo03_arqui_limpia) | Organización del código y responsabilidades en Java |
-| **Pruebas de software** | [Laboratorio 01](https://github.com/paulbellido0990/laboratorio-01-pruebas) · [Laboratorio 05](https://github.com/paulbellido0990/laboratorio-5-pruebas) · [Semana 06](https://github.com/paulbellido0990/laboratorio-pruebas-s6) | Pruebas y validación de lógica con Python; el Laboratorio 01 no contiene material público sustantivo |
-| **Notebooks y prácticas IS-484** | [Práctica 001](https://github.com/paulbellido0990/IS484-Practica001-Lunes-Llallahui-Bellido) · [Laboratorio 001](https://github.com/paulbellido0990/IS484-Labo001-Lunes-Llallahui-Bellido) · [Semana 002](https://github.com/paulbellido0990/IS484-Semana002-Lunes-Llallahui) | Ejercicios computacionales en Jupyter Notebook |
-| **Colaboración y control de versiones** | [TallerGit](https://github.com/paulbellido0990/TallerGit) · [TallerGit-Compartido](https://github.com/paulbellido0990/TallerGit-Compartido) | Trabajo con repositorios y Git |
+<details open>
+<summary><b>👟 Web, producto digital y herramientas (4)</b></summary>
+
+| Repositorio | Enfoque |
+|:--|:--|
+| [sneakerhub](https://github.com/paulbellido0990/sneakerhub) | E-commerce Full Stack |
+| [SneakerStore](https://github.com/paulbellido0990/SneakerStore) | Catálogo dinámico en React y TypeScript |
+| [agente_personal](https://github.com/paulbellido0990/agente_personal) | ALIRA, gestión de tareas |
+| [blossom-escritorio](https://github.com/paulbellido0990/blossom-escritorio) | Sistema local de ventas |
+
+</details>
 
 <details>
-<summary><b>🔎 Ver todos los repositorios públicos revisados</b></summary>
+<summary><b>🏛️ Arquitectura y Java (4)</b></summary>
 
-Además de los proyectos destacados y laboratorios enlazados arriba, el propio repositorio de este perfil es [paulbellido0990/paulbellido0990](https://github.com/paulbellido0990/paulbellido0990). La selección de arriba cubre los **17 repositorios públicos** identificados en la revisión del **30 de octubre de 2026**. Para ver el inventario actualizado, usa la [lista de repositorios de GitHub](https://github.com/paulbellido0990?tab=repositories).
+| Repositorio | Enfoque |
+|:--|:--|
+| [Labo4_Arqui_Hexagonal](https://github.com/paulbellido0990/Labo4_Arqui_Hexagonal) | Puertos y adaptadores |
+| [Labo5_arqu](https://github.com/paulbellido0990/Labo5_arqu) | Laboratorio 05 de arquitectura |
+| [Labo03-Arquitectura-Software](https://github.com/paulbellido0990/Labo03-Arquitectura-Software) | Laboratorio 03 |
+| [Labo03_arqui_limpia](https://github.com/paulbellido0990/Labo03_arqui_limpia) | Variante de laboratorio 03 |
+
+</details>
+
+<details>
+<summary><b>🧪 Pruebas y validación (3)</b></summary>
+
+| Repositorio | Enfoque |
+|:--|:--|
+| [laboratorio-01-pruebas](https://github.com/paulbellido0990/laboratorio-01-pruebas) | Inicio del curso de pruebas; repositorio sin lenguaje principal informado |
+| [laboratorio-5-pruebas](https://github.com/paulbellido0990/laboratorio-5-pruebas) | Procesamiento de pagos y Pytest |
+| [laboratorio-pruebas-s6](https://github.com/paulbellido0990/laboratorio-pruebas-s6) | Payment processor y pruebas en Python |
+
+</details>
+
+<details>
+<summary><b>📒 Notebooks y prácticas de IS484 (3)</b></summary>
+
+| Repositorio | Enfoque |
+|:--|:--|
+| [IS484-Practica001-Lunes-Llallahui-Bellido](https://github.com/paulbellido0990/IS484-Practica001-Lunes-Llallahui-Bellido) | Notebooks de ejercicios aplicados |
+| [IS484-Labo001-Lunes-Llallahui-Bellido](https://github.com/paulbellido0990/IS484-Labo001-Lunes-Llallahui-Bellido) | Laboratorio 01 |
+| [IS484-Semana002-Lunes-Llallahui](https://github.com/paulbellido0990/IS484-Semana002-Lunes-Llallahui) | Laboratorio de semana 02 |
+
+</details>
+
+<details>
+<summary><b>🌱 Git, colaboración y perfil (3)</b></summary>
+
+| Repositorio | Enfoque |
+|:--|:--|
+| [TallerGit](https://github.com/paulbellido0990/TallerGit) | Taller de control de versiones |
+| [TallerGit-Compartido](https://github.com/paulbellido0990/TallerGit-Compartido) | Práctica compartida de Git |
+| [paulbellido0990](https://github.com/paulbellido0990/paulbellido0990) | README público de perfil |
 
 </details>
 
 ---
 
-## 📈 GitHub en números
-
-<div align="center">
-
-<img width="49%" alt="Resumen de estadísticas GitHub" src="https://github-readme-stats.vercel.app/api?username=paulbellido0990&show_icons=true&count_private=false&include_all_commits=false&hide_border=true&rank_icon=github&bg_color=111827&title_color=5EEAD4&text_color=E2E8F0&icon_color=FB923C" />
-<img width="49%" alt="Lenguajes utilizados en repositorios públicos" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulbellido0990&layout=compact&langs_count=8&hide_border=true&bg_color=111827&title_color=5EEAD4&text_color=E2E8F0" />
-
-<br/>
-
-<img width="90%" alt="Racha de contribuciones" src="https://streak-stats.demolab.com?user=paulbellido0990&hide_border=true&background=111827&stroke=334155&ring=14B8A6&fire=FB923C&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=2DD4BF&sideLabels=94A3B8&dates=94A3B8" />
-
-<br/>
-
-<img width="98%" alt="Gráfico de actividad en GitHub" src="https://github-readme-activity-graph.vercel.app/graph?username=paulbellido0990&bg_color=111827&color=5EEAD4&line=14B8A6&point=FB923C&area=true&hide_border=true&custom_title=Actividad%20de%20contribuciones" />
-
-</div>
-
-> Las tarjetas se generan con servicios externos y muestran estadísticas públicas dinámicas. Pueden fallar temporalmente por límites o disponibilidad del proveedor. El gráfico de lenguajes mide código de repositorios, **no nivel de dominio profesional**; la racha tampoco mide productividad ni calidad.
-
----
-
-## 🗺️ Mapa de mis áreas de trabajo
+## 🧭 Mi proceso de desarrollo
 
 ```mermaid
-flowchart TB
-  P["Paul Bellido · Ingeniería de Sistemas"]
-  P --> W["Desarrollo web"]
-  P --> A["Arquitectura y patrones"]
-  P --> T["Testing y calidad"]
-  P --> D["Datos y aplicaciones"]
-  W --> SH["SneakerHub · React + FastAPI"]
-  W --> SS["SneakerStore · React + TypeScript"]
-  A --> HEX["Arquitectura Hexagonal · Java"]
-  A --> PAT["Patrones y POO · Java"]
-  T --> PY["Pruebas · Python"]
-  D --> BL["BLOSSOM · Tkinter + SQLite"]
-  D --> AL["ALIRA · React + Express"]
-  D --> NB["Prácticas · Jupyter"]
-  classDef root fill:#111827,stroke:#2dd4bf,color:#ffffff;
-  classDef main fill:#dcfce7,stroke:#0f766e,color:#134e4a;
-  classDef leaf fill:#fce7f3,stroke:#db2777,color:#831843;
-  class P root;
-  class W,A,T,D main;
-  class SH,SS,HEX,PAT,PY,BL,AL,NB leaf;
+flowchart LR
+    A["🔎 Análisis"] --> B["🧩 Diseño"] --> C["💻 Implementación"] --> D["🧪 Pruebas"] --> E["🚀 Entrega"] --> F["🔁 Mejora"]
+    classDef pastel fill:#EAE4FA,stroke:#B8ADE0,color:#334155;
+    class A,B,C,D,E,F pastel;
 ```
 
----
+### En qué sigo profundizando
 
-## 🧭 Cómo abordo un proyecto
-
-| Etapa | Qué busco resolver |
-| :-- | :-- |
-| **01 · Analizar** | Comprender a los usuarios, el problema y las restricciones |
-| **02 · Diseñar** | Definir componentes, entidades, contratos y responsabilidades |
-| **03 · Construir** | Implementar incrementos claros y verificables |
-| **04 · Probar** | Validar el comportamiento y detectar regresiones |
-| **05 · Mejorar** | Refactorizar, documentar y preparar el despliegue |
-
-### 🔭 Próximos aprendizajes
-
-`System Design` · `Arquitecturas mantenibles` · `Pruebas de integración` · `CI/CD` · `Seguridad web` · `Observabilidad` · `Despliegue`
+- Arquitectura mantenible y patrones de diseño.
+- Diseño y consumo de APIs REST.
+- Persistencia relacional y modelado de datos.
+- Automatización de pruebas e integración continua.
+- Despliegue, confiabilidad y documentación técnica.
 
 ---
+
+## 🤝 Contacto
 
 <div align="center">
 
-### ⚙️ Engineering ideas into working software
+[![GitHub](https://img.shields.io/badge/EXPLORAR_REPOSITORIOS-DAD6F6?style=for-the-badge&logo=github&logoColor=334155)](https://github.com/paulbellido0990?tab=repositories)
+[![SneakerHub](https://img.shields.io/badge/VER_SNEAKERHUB-C2E9DD?style=for-the-badge&logo=react&logoColor=334155)](https://github.com/paulbellido0990/sneakerhub)
 
-**Analizar · Diseñar · Construir · Probar · Mejorar**
+**Paul Bellido · Ingeniería de Sistemas · UNSCH**
 
-[![Repositorios](https://img.shields.io/badge/VER_MIS_REPOSITORIOS-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paulbellido0990?tab=repositories)
-[![SneakerHub](https://img.shields.io/badge/PROBAR_SNEAKERHUB-0F766E?style=for-the-badge&logo=vercel&logoColor=white)](https://sneakerhub-repositorio.vercel.app/)
-
-<br/><br/>
-
-**Paul Bellido · Ingeniería de Sistemas · UNSCH, Perú**
-
-<img width="100%" alt="Pie de página con degradado" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:2DD4BF,50:0F766E,100:111827" />
+*Construir software también es aprender a hacerlo mejor.*
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=95&color=0:DAD6F6,50:C2E9DD,100:F7C9D7" alt="Decoración pastel" />
+
