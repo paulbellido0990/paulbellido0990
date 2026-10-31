@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/portada.svg" width="100%" alt="Paul Bellido — Ingeniería de Sistemas y desarrollo de software" />
+<img src="./portada.svg" width="100%" alt="Paul Bellido — Ingeniería de Sistemas y desarrollo de software" />
 
 <br />
 
@@ -46,7 +46,7 @@ Combino desarrollo web y backend con diseño de arquitectura, bases de datos y p
 
 ### Distribución porcentual de lenguajes principales
 
-<img src="./assets/lenguajes.svg" alt="Distribución porcentual por lenguaje principal de 13 repositorios" width="100%" />
+<img src="./lenguajes.svg" alt="Distribución porcentual por lenguaje principal de 13 repositorios" width="100%" />
 
 | Lenguaje principal de repositorio | Repositorios | Participación |
 |:--|--:|--:|
@@ -220,4 +220,3 @@ flowchart LR
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=95&color=0:DAD6F6,50:C2E9DD,100:F7C9D7" alt="Decoración pastel" />
-
