@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="417" viewBox="0 0 1080 417" role="img" aria-label="Mapa de proyectos">
+<defs><linearGradient id="wash" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#F5F2FD"/><stop offset="49%" stop-color="#F4FBFA"/><stop offset="100%" stop-color="#FFF5F7"/></linearGradient></defs>
+<rect x="0" y="0" width="1080" height="417" rx="28" fill="url(#wash)" stroke="none" />
+<rect x="32" y="34" width="7" height="37" rx="3" fill="#9CCFC3" stroke="none" />
+<text x="56" y="61" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" fill="#334155" text-anchor="start">Mapa de proyectos</text>
+<text x="56" y="88" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#64748B" text-anchor="start">Áreas de trabajo según los repositorios públicos</text>
+<rect x="55" y="129" width="224.71" height="34" rx="7" fill="#9CCFC3" stroke="none" />
+<rect x="279.71000000000004" y="129" width="224.71" height="34" rx="7" fill="#B7B2E8" stroke="none" />
+<rect x="504.4200000000001" y="129" width="168.53" height="34" rx="7" fill="#93C9E1" stroke="none" />
+<rect x="672.95" y="129" width="168.53" height="34" rx="7" fill="#E9A8C3" stroke="none" />
+<rect x="841.48" y="129" width="168.53" height="34" rx="7" fill="#E9D19A" stroke="none" />
+<rect x="58" y="185" width="21" height="21" rx="5" fill="#9CCFC3" stroke="none" />
+<text x="91" y="203" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#334155" text-anchor="start">Aplicaciones y producto</text>
+<text x="490" y="203" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="750" fill="#334155" text-anchor="start">4</text>
+<rect x="554" y="185" width="21" height="21" rx="5" fill="#B7B2E8" stroke="none" />
+<text x="587" y="203" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#334155" text-anchor="start">Arquitectura y Java</text>
+<text x="986" y="203" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="750" fill="#334155" text-anchor="start">4</text>
+<rect x="58" y="244" width="21" height="21" rx="5" fill="#93C9E1" stroke="none" />
+<text x="91" y="262" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#334155" text-anchor="start">Git y perfil</text>
+<text x="490" y="262" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="750" fill="#334155" text-anchor="start">3</text>
+<rect x="554" y="244" width="21" height="21" rx="5" fill="#E9A8C3" stroke="none" />
+<text x="587" y="262" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#334155" text-anchor="start">Jupyter y análisis</text>
+<text x="986" y="262" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="750" fill="#334155" text-anchor="start">3</text>
+<rect x="58" y="303" width="21" height="21" rx="5" fill="#E9D19A" stroke="none" />
+<text x="91" y="321" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#334155" text-anchor="start">Pruebas de software</text>
+<text x="490" y="321" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="750" fill="#334155" text-anchor="start">3</text>
+<text x="56" y="392" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#64748B" text-anchor="start">30/10/2026 · datos públicos verificados</text>
+</svg>

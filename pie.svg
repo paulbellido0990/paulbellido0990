@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="110" viewBox="0 0 1080 110" role="img" aria-label="Separador pastel de cierre">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#DAD6F6"/><stop offset="50%" stop-color="#B9E6D3"/><stop offset="100%" stop-color="#F7C9D7"/></linearGradient></defs>
+<rect width="1080" height="110" fill="#FFFFFF"/>
+<path d="M0 46 C220 4 370 102 570 46 S920 12 1080 62 L1080 110 L0 110 Z" fill="url(#g)"/>
+<path d="M0 70 C240 40 340 100 600 65 S900 40 1080 82 L1080 110 L0 110 Z" fill="#D5ECEA" opacity="0.5"/>
+</svg>

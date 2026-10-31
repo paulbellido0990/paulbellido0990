@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="375" viewBox="0 0 1080 375" role="img" aria-label="Composición del código">
+<defs><linearGradient id="wash" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#F5F2FD"/><stop offset="49%" stop-color="#F4FBFA"/><stop offset="100%" stop-color="#FFF5F7"/></linearGradient></defs>
+<rect x="0" y="0" width="1080" height="375" rx="28" fill="url(#wash)" stroke="none" />
+<rect x="32" y="34" width="7" height="37" rx="3" fill="#9CCFC3" stroke="none" />
+<text x="56" y="61" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" fill="#334155" text-anchor="start">Composición del código</text>
+<text x="56" y="88" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#64748B" text-anchor="start">Diferente del porcentaje por repositorios</text>
+<rect x="44" y="120" width="990" height="210" rx="20" fill="#FFFFFF" stroke="#E9DDEF" />
+<text x="540" y="179" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700" fill="#334155" text-anchor="middle">Distribución de código por lenguaje</text>
+<text x="540" y="217" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="#64748B" text-anchor="middle">Pendiente del primer cálculo desde la API oficial de GitHub</text>
+<text x="540" y="256" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="650" fill="#886FBA" text-anchor="middle">Actions → Actualizar estadísticas del perfil → Run workflow</text>
+<text x="540" y="292" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#64748B" text-anchor="middle">El gráfico usará bytes clasificados por GitHub Linguist</text>
+<text x="56" y="350" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#64748B" text-anchor="start">Se actualiza tras ejecutar el workflow</text>
+</svg>

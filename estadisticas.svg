@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="293" viewBox="0 0 1080 293" role="img" aria-label="Panorama de mi GitHub">
+<defs><linearGradient id="wash" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#F5F2FD"/><stop offset="49%" stop-color="#F4FBFA"/><stop offset="100%" stop-color="#FFF5F7"/></linearGradient></defs>
+<rect x="0" y="0" width="1080" height="293" rx="28" fill="url(#wash)" stroke="none" />
+<rect x="32" y="34" width="7" height="37" rx="3" fill="#9CCFC3" stroke="none" />
+<text x="56" y="61" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" fill="#334155" text-anchor="start">Panorama de mi GitHub</text>
+<text x="56" y="88" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#64748B" text-anchor="start">Resumen verificable de mis repositorios públicos</text>
+<rect x="38" y="119" width="239" height="132" rx="20" fill="#FFFFFF" stroke="#E7EAF1" />
+<rect x="56" y="139" width="38" height="6" rx="3" fill="#9CCFC3" stroke="none" />
+<text x="58" y="174" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#64748B" text-anchor="start">REPOSITORIOS</text>
+<text x="58" y="222" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="750" fill="#334155" text-anchor="start">17</text>
+<text x="158" y="222" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="500" fill="#64748B" text-anchor="start">Públicos en GitHub</text>
+<rect x="299" y="119" width="239" height="132" rx="20" fill="#FFFFFF" stroke="#E7EAF1" />
+<rect x="317" y="139" width="38" height="6" rx="3" fill="#B7B2E8" stroke="none" />
+<text x="319" y="174" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#64748B" text-anchor="start">CON LENGUAJE</text>
+<text x="319" y="222" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="750" fill="#334155" text-anchor="start">13</text>
+<text x="419" y="222" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="500" fill="#64748B" text-anchor="start">Clasificación principal</text>
+<rect x="560" y="119" width="239" height="132" rx="20" fill="#FFFFFF" stroke="#E7EAF1" />
+<rect x="578" y="139" width="38" height="6" rx="3" fill="#93C9E1" stroke="none" />
+<text x="580" y="174" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#64748B" text-anchor="start">TECNOLOGÍAS</text>
+<text x="580" y="222" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="750" fill="#334155" text-anchor="start">5</text>
+<text x="680" y="222" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="500" fill="#64748B" text-anchor="start">Categorías principales</text>
+<rect x="821" y="119" width="239" height="132" rx="20" fill="#FFFFFF" stroke="#E7EAF1" />
+<rect x="839" y="139" width="38" height="6" rx="3" fill="#E9A8C3" stroke="none" />
+<text x="841" y="174" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#64748B" text-anchor="start">ÁREAS</text>
+<text x="841" y="222" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="750" fill="#334155" text-anchor="start">5</text>
+<text x="941" y="222" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="500" fill="#64748B" text-anchor="start">Campos de proyectos</text>
+<text x="56" y="268" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#64748B" text-anchor="start">30/10/2026 · datos públicos verificados</text>
+</svg>

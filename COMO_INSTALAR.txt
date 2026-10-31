@@ -1,0 +1,26 @@
+INSTALACIÓN — Perfil de GitHub Paul Bellido
+
+Los archivos están organizados para colocarlos en la RAÍZ de
+https://github.com/paulbellido0990/paulbellido0990
+
+1) Sustituye el README.md y copia TODOS los SVG en la raíz:
+   portada.svg, lenguajes.svg, estadisticas.svg, codigo.svg, proyectos.svg, pie.svg
+
+2) Copia la carpeta scripts/ completa.
+3) Copia la carpeta .github/workflows/ completa (es oculta en algunos sistemas).
+4) Realiza commit y push a la rama principal.
+5) En GitHub, abre Actions > Actualizar estadísticas del perfil > Run workflow.
+   En la primera ejecución se calculará el porcentaje real de código por lenguaje.
+6) A partir de entonces GitHub Actions intentará actualizar los gráficos diariamente.
+
+Si la ejecución no puede hacer push, revisa:
+Settings > Actions > General > Workflow permissions > Read and write permissions.
+El repositorio debe permitir ejecutar workflows y escritura con GITHUB_TOKEN.
+
+Todos los SVG existen de inmediato: no habrá imágenes rotas durante la instalación.
+Las cifras iniciales muestran los datos observados al 30/10/2026;
+la tarjeta de código mostrará un mensaje hasta que se ejecute el workflow.
+Los gráficos reflejan únicamente repositorios públicos accesibles.
+
+Nota: Las insignias de shields.io y la tarjeta externa de racha de actividad
+siguen dependiendo de sus respectivos servicios web.
